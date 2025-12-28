@@ -6,7 +6,7 @@ A fully-featured **Tic Tac Toe game** built using **HTML, CSS, and Vanilla JavaS
 
 ## 🚀 Live Demo
 
-👉 Add deployed link here (Netlify / Vercel)
+👉 https://cozy-semolina-0f78df.netlify.app/
 
 ---
 
