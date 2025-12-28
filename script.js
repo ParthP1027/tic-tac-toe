@@ -186,7 +186,7 @@ function selectSign(btn) {
     player1Sign = currentSign;
     player2Sign = player1Sign == "x" ? "o" : "x";
   } else {
-    player2sign = currentSign;
+    player2Sign = currentSign;
     player1Sign = player1Sign == "x" ? "o" : "x";
   }
 }
