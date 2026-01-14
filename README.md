@@ -8,8 +8,7 @@ A fully-featured **Tic Tac Toe game** built using **HTML, CSS, and Vanilla JavaS
 
 ## 🚀 Live Demo
 
-👉 https://cozy-semolina-0f78df.netlify.app/
-
+👉 https://pp-tictactoe.netlify.app/
 ---
 
 ## ✨ Features
